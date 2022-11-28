@@ -1,21 +1,16 @@
 import './App.css';
-//import NavBar from './components/NavBar'
-//import MenuP from './components/MenuP'
-import Contenedor from './components/Contenedor'
-
-const Aviso = () => {
-  return (
-    <h3>Holuuu</h3>
-  )
-}
+import NavBar from './components/NavBar'
+import CartWidget from './components/CartWidget'
+import ItemListContainer from './components/ItemListContainer'
 
 
 function App() {
   return (
     <div className="App">
-      <Contenedor lugar={"Coderhouse"}>
-        <Aviso />
-      </Contenedor>
+      <NavBar>
+        <CartWidget />
+      </NavBar>
+      <ItemListContainer />
     </div>
   );
 }
