@@ -54,6 +54,36 @@
 .itemList {
   margin: 8px;
 }
+
+.addToCartContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.itemCountContainer {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
+
+.itemCountText {
+  color: #3e8ded;
+  padding: 0px 40px 0px 40px;
+}
+
+.itemCountNumber {
+  padding: 8px;
+}
+
+.addButton {
+  width: 300px;
+  height: 70px;
+  color: #3e8ded;
+  border: 1px solid #3e8ded;
+  border-radius: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
