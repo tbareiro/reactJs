@@ -1,0 +1,112 @@
+{
+    "productos": [
+        {
+            "id" : 1,
+            "nombre" : "Celular Samsung M12 128/4GB Negro",
+            "imagen" : "https://alclick.com.ar/image/3/1000_1300-Nuevo%20proyecto%20(82)1.jpg",
+            "precio" : 98999,
+            "descripcion" : "El Samsung Galaxy M12 es el sucesor del M11, mejorando algunas características. El Galaxy M12 cuenta con una pantalla HD+ de 6.5 pulgadas, potenciado por un procesador Exynos 850. La cámara posterior del Galaxy M12 es cuádruple, en configuración 48MP + 5MP + 2MP + 2MP, y su cámara frontal para selfies es de 8 megapixels. Completando las características del Galaxy M12 encontramos una batería de 6000 mAh de carga rápida, lector de huellas montado de costado, puerto USB-C y corre Android 11 con la interfaz One UI 3.0.",
+            "categoria" : "celulares",
+            "marca" : "Samsung"
+        }, 
+        {
+            "id" : 2,
+            "nombre" : "Celular Motorola Moto G52 128/6GB Negro",
+            "imagen" : "https://alclick.com.ar/image/3/1000_1300-D_NQ_NP_2X_832442-MLA50041421304_052022-F.jpg",
+            "precio" : 75999,
+            "descripcion" : "Su potente procesador Octa-Core Qualcomm Snapdragon y la memoria RAM de 6GB brindan un desempeño increíble. Obtendrás más potencia para jugar, stremear y usar las funciones avanzadas de cámara, además de un funcionamiento más eficiente que consume menos batería. Cuenta con una batería de 5000 mAh preparada para acompañarte durante todo el día. Además, con TurboPower™, podrás cargar tu Moto G52 en solo minutos, para seguir haciendo lo que te gusta sin que nada te detenga. Gracias a su sistema de triple cámara (50 + 8 + 2 MP) lograrás retratar cada momento con una gran calidad, capturar tomas amplias increíbles y acercamientos detallados en cualquier condición de luz y desde cualquier ángulo.",
+            "categoria" : "celulares",
+            "marca" : "Motorola"
+        }, 
+        {
+            "id" : 3,
+            "nombre" : "Celular Samsung Galaxy A23 128/4GB Celeste",
+            "imagen" : "https://alclick.com.ar/image/3/1000_1300-D_NQ_NP_2X_850877-MLA49830942226_052022-F.jpg",
+            "precio" : 69999,
+            "descripcion" : "Descubrí infinitas posibilidades para tus fotos con las 4 cámaras principales de tu equipo. Poné a prueba tu creatividad y jugá con la iluminación, diferentes planos y efectos para obtener grandes resultados. Su memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar. Máxima seguridad para que solo vos puedas acceder al equipo. Podrás elegir entre el sensor de huella dactilar para habilitar el teléfono en un toque, o el reconocimiento facial que permite un desbloqueo hasta un 30% más rápido. ¡Desenchufate! Con la súper batería de 5000 mAh tendrás energía por mucho más tiempo para jugar, ver series o trabajar sin necesidad de realizar recargas.",
+            "categoria" : "celulares",
+            "marca" : "Samsung"
+        }, 
+        {
+            "id" : 4,
+            "nombre" : "TV Smart Led 4K 50' Noblex",
+            "imagen" : "https://coppelar.vtexassets.com/arquivos/ids/1749318-1200-auto?v=638025004654730000&width=1200&height=auto&aspect=true",
+            "precio" : 109999,
+            "descripcion" : "SMART 4K GOOGLE TV SISTEMA GOOGLE TV RESOLUCION DE VIDEO 3840x2160 RELACION DE ASPECTO 16:9 CONTRASTE 4000:1 BRILLO 330cd TIEMPO DE RESPUESTA (ms) 8ms FRECUENCIA DE REFRESCO (hz) 60 Hz.",
+            "categoria" : "televisores",
+            "marca" : "Noblex"
+        }, 
+        {
+            "id" : 5,
+            "nombre" : "TV Smart Led FHD 40' Hitachi",
+            "imagen" : "https://www.unimax.com.ar/media/catalog/product/cache/c14540bc7b8b1ce78fff255b00dee79b/h/i/hitachi_40_2.jpg",
+            "precio" : 109999,
+            "descripcion" : "Su resolución Full HD muestra una clara evolución frente a su antecesora. Las imágenes que vas a ver van a tener una calidad superior con un alto nivel de detalle y colores mucho más llamativos.",
+            "categoria" : "televisores",
+            "marca" : "Hitachi"
+        }, 
+        {
+            "id" : 6,
+            "nombre" : "TV Smart Led 4K 50' Samsung",
+            "imagen" : "https://http2.mlstatic.com/D_NQ_NP_2X_787221-MLA48007684849_102021-F.webp",
+            "precio" : 106399,
+            "descripcion" : "Con el Smart TV UN50AU7000G vas a acceder a las aplicaciones en las que se encuentran tus contenidos favoritos. Además, podés navegar por Internet, interactuar en redes sociales y divertirte con videojuegos.",
+            "categoria" : "televisores",
+            "marca" : "Samsung"
+        }, 
+        {
+            "id" : 7,
+            "nombre" : "TV Smart Led FHD 43' BGH",
+            "imagen" : "https://www.unimax.com.ar/media/catalog/product/cache/c14540bc7b8b1ce78fff255b00dee79b/t/e/teve.jpg",
+            "precio" : 79990,
+            "descripcion" : "Con su resolución Full HD las imágenes que vas a ver van a tener una calidad superior con un alto nivel de detalle y colores mucho más llamativos.",
+            "categoria" : "televisores",
+            "marca" : "BGH"
+        }, 
+        {
+            "id" : 8,
+            "nombre" : "Celular Motorola Moto G71 Azul",
+            "imagen" : "https://http2.mlstatic.com/D_NQ_NP_673045-MLA50210790665_062022-O.webp",
+            "precio" : 74999,
+            "descripcion" : "Ahora tu smartphone se ajusta a tu ritmo de vida. Obtené la velocidad que necesitás para sacar fotos, mirar tus redes sociales y cargar imágenes con facilidad gracias al procesador Snapdragon 695 y los 6 GB de memoria RAM. Preparate para la próxima generación de redes con un smartphone fabricado para el mañana. Descargá tus programas favoritos al instante. Ahora, las conexiones lentas son cosa del pasado.",
+            "categoria" : "celulares",
+            "marca" : "Motorola"
+        }, 
+        {
+            "id" : 9,
+            "nombre" : "Notebook Asus x515 15.6'",
+            "imagen" : "https://smarts.com.ar/media/catalog/product/cache/e12e3d3943d4efe8bfe0cb881ca8b49c/x/5/x515eacorei34gb_1.jpg",
+            "precio" : 133839,
+            "descripcion" : "La notebook Asus X515EA es una solución tanto para trabajar y estudiar como para entretenerte. Al ser portátil, el escritorio dejará de ser tu único espacio de uso para abrirte las puertas a otros ambientes ya sea en tu casa o en la oficina.",
+            "categoria" : "notebooks",
+            "marca" : "Asus"
+        }, 
+        {
+            "id" : 10,
+            "nombre" : "Notebook HP 14'",
+            "imagen" : "https://medias.musimundo.com/medias/00454005-144594-144594-01-144594-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wxNDkwMTV8aW1hZ2UvanBlZ3xoYWQvaGJiLzEwMzgxMDI3NTQxMDIyLzAwNDU0MDA1LTE0NDU5NC0xNDQ1OTRfMDEtMTQ0NTk0XzAxLmpwZ19zaXplNTE1fDdiY2JlMmE3YTM3MDZiYWI4MmVhOWQwZGJlYjYzYzk1MGVjOTRiYmM2MDJmMTk1ZTI0NzkwYTZiNWFiNTJkNjk",
+            "precio" : 63999,
+            "descripcion" : "Diseñada para tu productividad y entretenimiento desde cualquier lugar, la nueva HP Laptop 14 combina el poder de Intel y batería de larga duración en un diseño delgado y portable con pantalla de micro borde.",
+            "categoria" : "notebooks",
+            "marca" : "HP"
+        }, 
+        {
+            "id" : 11,
+            "nombre" : "Notebook Lenovo Legion Slim 16'",
+            "imagen" : "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MzMxMjE4fGltYWdlL3BuZ3xoZWIvaGFhLzE0NDY5MTM1NTk3NTk4LnBuZ3xmZDIwNzI5YTUwODljZjM5ZjhlMzcwMjFiMDZkOTJhMzRlZjk4ZGViYjZlZTI4MTcwMmE2MTNhMGQ4ODhmYzMz",
+            "precio" : 519999,
+            "descripcion" : "La laptop Legion Slim 7i de 7ma generación cuenta con varias opciones de pantalla hasta WQXGA de 16', para conseguir imágenes increíbles y también una ventaja táctica. Disfrutarás de una relación de aspecto  que te ofrece más espacio útil en la pantalla para disfrutar de frecuencias de actualización variables de hasta 240 Hz para tiempos de reacción sobrehumanos. Además, una mini-LED opcional te ofrece control de brillo y color inigualables.",
+            "categoria" : "notebooks",
+            "marca" : "Lenovo"
+        }, 
+        {
+            "id" : 12,
+            "nombre" : "Notebook Lenovo IdeaPad 14'",
+            "imagen" : "https://www.lenovo.com/medias/IdeaPad-3-14ITL6-CT1-01-725x515px.png?context=bWFzdGVyfHJvb3R8NDM3NDQ2fGltYWdlL3BuZ3xoYzIvaGI3LzE0Nzg3OTExNzEyNzk4LnBuZ3w0NTcwOTVkZTA2OWE1MzI3ODFlMmJkNDlmNmUxMDViZWZmYmY5NGVhODUwYzczZGJmNWEzOGZmZDVlOTZlY2E3",
+            "precio" : 149999,
+            "descripcion" : "Saca el máximo partido de tu procesador sin preocuparte por los fallos. La notebook IdeaPad i3 6ta Gen (14', Intel) está equipada con funciones de refrigeración mecánicas e inteligentes para mantener el procesador ventilado y en funcionamiento de manera óptima en todo momento.",
+            "categoria" : "notebooks",
+            "marca" : "Lenovo"
+        }
+    ]
+}
