@@ -1,11 +1,11 @@
 import React from "react";
-import carritoIcon from "../assets/carritoIcon.png"
 
 const CartWidget = () => {
     return (
-        <div>
-            <img className="carritoIcon" src={carritoIcon} alt="carrito"/>
-        </div>
+        <button type="button">
+            <img width={50} className="carritoIcon" src="/assets/carritoIcon.png" alt="carrito"/>
+            <span>1</span>
+        </button>
     )
 }
 
