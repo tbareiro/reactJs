@@ -1,16 +1,16 @@
 [
     {
-        "id" : 1,
+        "index" : 1,
         "nombre" : "Celular Samsung M12 128/4GB Negro",
         "imagen" : "https://alclick.com.ar/image/3/1000_1300-Nuevo%20proyecto%20(82)1.jpg",
         "precio" : 98999,
-        "descripcion" : "El Samsung Galaxy M12 es el sucesor del M11, mejorando algunas características. El Galaxy M12 cuenta con una pantalla HD+ de 6.5 pulgadas, potenciado por un procesador Exynos 850. La cámara posterior del Galaxy M12 es cuádruple, en configuración 48MP + 5MP + 2MP + 2MP, y su cámara frontal para selfies es de 8 megapixels. Completando las características del Galaxy M12 encontramos una batería de 6000 mAh de carga rápida, lector de huellas montado de costado, puerto USB-C y corre Android 11 con la interfaz One UI 3.0.",
+        "descripcion" : "El Samsung Galaxy M12 es el sucesor del M11, mejorando algunas características. El Galaxy M12 cuenta con una pantalla HD+ de 6.5 pulgadas, potenciado por un procesador Exynos 850. La cámara posterior del Galaxy M12 es cuádruple, en configuración 48MP + 5MP + 2MP + 2MP, y su cámara frontal para selfies es de 8 megapixels. Completando las características del Galaxy M12 encontramos una batería de 6000 mAh de carga rápindexa, lector de huellas montado de costado, puerto USB-C y corre Android 11 con la interfaz One UI 3.0.",
         "categoria" : "celulares",
         "marca" : "Samsung",
         "stock" : 2
     }, 
     {
-        "id" : 2,
+        "index" : 2,
         "nombre" : "Celular Motorola Moto G52 128/6GB Negro",
         "imagen" : "https://tienda.movistar.com.ar/media/catalog/product/cache/1d01ed3f1ecf95fcf479279f9ae509ad/g/5/g52-negro-frente_1.png",
         "precio" : 75999,
@@ -20,7 +20,7 @@
         "stock" : 1
     }, 
     {
-        "id" : 3,
+        "index" : 3,
         "nombre" : "Celular Samsung Galaxy A23 128/4GB Celeste",
         "imagen" : "https://alclick.com.ar/image/3/1000_1300-D_NQ_NP_2X_850877-MLA49830942226_052022-F.jpg",
         "precio" : 69999,
@@ -30,7 +30,7 @@
         "stock" : 4
     }, 
     {
-        "id" : 4,
+        "index" : 4,
         "nombre" : "TV Smart Led 4K 50' Noblex",
         "imagen" : "https://coppelar.vtexassets.com/arquivos/ids/1749318-1200-auto?v=638025004654730000&width=1200&height=auto&aspect=true",
         "precio" : 109999,
@@ -40,7 +40,7 @@
         "stock" : 2
     }, 
     {
-        "id" : 5,
+        "index" : 5,
         "nombre" : "TV Smart Led FHD 40' Hitachi",
         "imagen" : "https://www.unimax.com.ar/media/catalog/product/cache/c14540bc7b8b1ce78fff255b00dee79b/h/i/hitachi_40_2.jpg",
         "precio" : 109999,
@@ -50,7 +50,7 @@
         "stock" : 1
     }, 
     {
-        "id" : 6,
+        "index" : 6,
         "nombre" : "TV Smart Led 4K 50' Samsung",
         "imagen" : "https://http2.mlstatic.com/D_NQ_NP_2X_787221-MLA48007684849_102021-F.webp",
         "precio" : 106399,
@@ -60,7 +60,7 @@
         "stock" : 5
     }, 
     {
-        "id" : 7,
+        "index" : 7,
         "nombre" : "TV Smart Led FHD 43' BGH",
         "imagen" : "https://www.unimax.com.ar/media/catalog/product/cache/c14540bc7b8b1ce78fff255b00dee79b/t/e/teve.jpg",
         "precio" : 79990,
@@ -70,7 +70,7 @@
         "stock" : 4
     }, 
     {
-        "id" : 8,
+        "index" : 8,
         "nombre" : "Celular Motorola Moto G71 Azul",
         "imagen" : "https://http2.mlstatic.com/D_NQ_NP_673045-MLA50210790665_062022-O.webp",
         "precio" : 74999,
@@ -80,7 +80,7 @@
         "stock" : 2
     }, 
     {
-        "id" : 9,
+        "index" : 9,
         "nombre" : "Notebook Asus x515 15.6'",
         "imagen" : "https://smarts.com.ar/media/catalog/product/cache/e12e3d3943d4efe8bfe0cb881ca8b49c/x/5/x515eacorei34gb_1.jpg",
         "precio" : 133839,
@@ -90,7 +90,7 @@
         "stock" : 1
     }, 
     {
-        "id" : 10,
+        "index" : 10,
         "nombre" : "Notebook HP 14'",
         "imagen" : "https://medias.musimundo.com/medias/00454005-144594-144594-01-144594-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wxNDkwMTV8aW1hZ2UvanBlZ3xoYWQvaGJiLzEwMzgxMDI3NTQxMDIyLzAwNDU0MDA1LTE0NDU5NC0xNDQ1OTRfMDEtMTQ0NTk0XzAxLmpwZ19zaXplNTE1fDdiY2JlMmE3YTM3MDZiYWI4MmVhOWQwZGJlYjYzYzk1MGVjOTRiYmM2MDJmMTk1ZTI0NzkwYTZiNWFiNTJkNjk",
         "precio" : 63999,
@@ -100,7 +100,7 @@
         "stock" : 3
     }, 
     {
-        "id" : 11,
+        "index" : 11,
         "nombre" : "Notebook Lenovo Legion Slim 16'",
         "imagen" : "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MzMxMjE4fGltYWdlL3BuZ3xoZWIvaGFhLzE0NDY5MTM1NTk3NTk4LnBuZ3xmZDIwNzI5YTUwODljZjM5ZjhlMzcwMjFiMDZkOTJhMzRlZjk4ZGViYjZlZTI4MTcwMmE2MTNhMGQ4ODhmYzMz",
         "precio" : 519999,
@@ -110,7 +110,7 @@
         "stock" : 1
     }, 
     {
-        "id" : 12,
+        "index" : 12,
         "nombre" : "Notebook Lenovo IdeaPad 14'",
         "imagen" : "https://www.lenovo.com/medias/IdeaPad-3-14ITL6-CT1-01-725x515px.png?context=bWFzdGVyfHJvb3R8NDM3NDQ2fGltYWdlL3BuZ3xoYzIvaGI3LzE0Nzg3OTExNzEyNzk4LnBuZ3w0NTcwOTVkZTA2OWE1MzI3ODFlMmJkNDlmNmUxMDViZWZmYmY5NGVhODUwYzczZGJmNWEzOGZmZDVlOTZlY2E3",
         "precio" : 149999,
